@@ -1,0 +1,13 @@
+25-03-2023 13:12:54, jeff, notion, adios, Codigo:1
+25-03-2023 13:13:56, jeff, notion, adios, Codigo:2
+25-03-2023 13:14:19, jeff, notion, adios, Codigo:3
+25-03-2023 15:25:11, jeff, vs code, internet of things, Codigo:4
+25-03-2023 15:27:20, jeff, reddit, xd, Codigo:5
+25-03-2023 15:27:42, jeff, reddit, xd, Codigo:6
+25-03-2023 15:28:43, ccampos, facebook, procastinando xd, Codigo:7
+26-03-2023 08:11:18, leonella, google, hola, Codigo:8
+26-03-2023 12:50:24, jeff, facebook, procastinaci�n, Codigo:9
+26-03-2023 12:52:50, ccampos, python, clase 1, Codigo:10
+26-03-2023 20:49:27, 11, 11, 1, Codigo:11
+26-03-2023 20:52:00, fulanito, notion, prueba v3, Codigo:12
+26-03-2023 21:21:29, jeff, notion, prueba v1 menu1, Codigo:1326-03-2023 21:26:27, jeff, vs code, prueba v3 main retornar, Codigo:14
